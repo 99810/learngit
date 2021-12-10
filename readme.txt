@@ -4,8 +4,6 @@ hhhhhooooohhhhh
 Git has a mutable index called stage.
 Creating a new branch is qucik.
 Creating a new branch is qucik.
-<<<<<<< HEAD
 Creating a new branch is qucik and simple.
-=======
-Creating a new branch is qucik AND simple.
->>>>>>> featurel
+hhhhhh
+hhh
